@@ -1,0 +1,51 @@
+input {
+  background-color: #f4f4f2;
+}
+
+.full {
+  height: auto;
+  overflow: auto;
+}
+
+.center {
+  position: absolute;
+  top: 20%;
+  width: 100%;
+}
+
+.container{
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.logo{
+  width: 300px;
+}
+
+.brand{
+  width: 35px;
+}
+
+.bottomicon{
+  width: 25px;
+  height: 25px;
+  margin: 0 0 5px 5px;
+}
+
+.footer{
+  bottom: 0;
+  width: 100%;
+  height: 150px;
+  background-color: #696969;
+}
+
+a.sn:link, a.sn:visited {
+  text-decoration: none;
+  font-size: 14px;
+  color: white;
+}
+
+.nav-link{
+  font-size: 20px !important;
+}
